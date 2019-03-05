@@ -7,3 +7,4 @@ outputs ./Excel_diff.xlsx
 
 todo:
 - output options
+- clarify input restrictions wrt column label & value's names & types
